@@ -1,0 +1,2 @@
+<p>Dieses Plugin bindet die neue "Passwort vergessen" Version, die ab Shopware 5.0.4 ausgeliefert wurde in alte Shopware 4 Versionen ein.</p>
+<br>
