@@ -1,7 +1,5 @@
 # SwagPasswordRestore
-
-## Supported versions
-Shopware version 4.1.4 to 4.3.6
+> Working with Shopware version 4.1.4 to 4.3.1.
 
 ## Description
 Nowadays, the average internet user actively uses numerous accounts, sometimes each with different login data.
